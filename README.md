@@ -3,4 +3,4 @@
 This repository stores my marketing skill files.
 
 ## Skills
-- Reddit用户研究
+- reddit-user-research
