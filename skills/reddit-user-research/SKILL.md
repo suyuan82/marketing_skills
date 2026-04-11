@@ -1,9 +1,9 @@
 ---
-name: Reddit用户研究
+name: reddit-user-research
 description: 从Reddit真实讨论中发现用户分群并构建画像。当用户说"帮我做Reddit用户研究""分析Reddit上的用户""从Reddit找用户洞察""Reddit用户画像""我想了解Reddit上这个品类的用户""帮我做社媒用户调研""Reddit social listening""分析一下Reddit的讨论"，或者带着产品/品牌/品类说想了解目标用户时，调用此技能。
 ---
 
-# Reddit 用户研究 — 自下而上分群与画像构建
+# Reddit用户研究 — 自下而上分群与画像构建
 
 ## 文件结构
 
